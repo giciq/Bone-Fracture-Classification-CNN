@@ -13,6 +13,6 @@ The models were evaluated using:
 * loss and accuracy curve plots
 * precision, accuracy, recall and F1-score metrics
 
-The last model achieves accuracy around 40%. 
+The last model achieves accuracy around 30-40%. 
 It is because of the size of dataset that is quite small. 
 Better dataset would result in better accuracy, for sure.
